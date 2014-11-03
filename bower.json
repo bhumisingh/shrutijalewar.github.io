@@ -1,0 +1,19 @@
+{
+  "name": "shrutijalewar.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shrutijalewar/shrutijalewar.github.io",
+  "authors": [
+    "Shruti Sharma <shrutijalewar@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

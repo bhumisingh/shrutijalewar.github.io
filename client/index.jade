@@ -1,7 +1,25 @@
 doctype html
-html(lang='en')
+html(ng-app='portfolio', lang='en')
   head
     meta(charset='utf-8')
-    title Shruti
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Shruti Sharma
+    link(href='/public/vendor/bootstrap/dist/css/bootstrap.css', rel='stylesheet')
+    link(href='/public/vendor/fontawesome/css/font-awesome.css', rel='stylesheet')
+    link(href='/public/index.css', rel='stylesheet')
+    link(href='/public/views/about/about.css', rel='stylesheet')
   body
-    h1 Shruti Sharma
+    include nav
+      .container
+        .row
+          .col-xs-12
+            #container(ng-view)
+    script(src='/public/vendor/angular/angular.js')
+    script(src='/public/vendor/angular-route/angular-route.js')
+    script(src='/public/vendor/jquery/dist/jquery.js')
+    script(src='/public/vendor/bootstrap/dist/js/bootstrap.js')
+    script(src='/public/views/about/about.js')
+    script(src='/public/views/resume/resume.js')
+    script(src='/public/views/contact/contact.js')
+    script(src='/public/views/projects/projects.js')

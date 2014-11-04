@@ -1,7 +1,7 @@
 body {
-  background-color: #dddddd;
+  background-color: #111111;
 }
-input.ng-invalid,
-select.ng-invalid {
+.navbar {
+  margin-bottom: 0px;
   background-color: #ff4136;
 }

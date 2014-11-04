@@ -1,7 +1,7 @@
-.BG-img {
-  background-image: url('/assets/BG.JPG');
+#BG {
+  background-image: 'url(assets/BG.JPG)';
   background-size: cover;
   margin: 0;
   width: 100%;
-  height: 1000px;
+  height: 800px;
 }

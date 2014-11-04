@@ -11,10 +11,11 @@ html(ng-app='portfolio', lang='en')
     link(href='/public/views/about/about.css', rel='stylesheet')
   body
     include nav
-      .container
+      .container-fluid
         .row
           .col-xs-12
             #container(ng-view)
+              
     script(src='/public/vendor/angular/angular.js')
     script(src='/public/vendor/angular-route/angular-route.js')
     script(src='/public/vendor/jquery/dist/jquery.js')

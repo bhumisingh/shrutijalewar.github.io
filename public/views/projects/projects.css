@@ -1,21 +1,21 @@
 #oz {
   background-image: url('../../assets/oz.png');
   width: 350px;
-  height: 254px;
+  height: 200px;
   background-size: contain;
   margin-left: 3px;
 }
 #roundup {
   background-image: url('../../assets/roundup.png');
   width: 350px;
-  height: 254px;
+  height: 200px;
   background-size: contain;
   margin-left: 3px;
 }
 #flushot {
   background-image: url('../../assets/influenza.png');
   width: 350px;
-  height: 254px;
+  height: 200px;
   background-size: contain;
   margin-left: 3px;
 }

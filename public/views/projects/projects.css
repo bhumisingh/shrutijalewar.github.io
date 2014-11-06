@@ -23,7 +23,15 @@
   margin-left: 3px;
 }
 #uwv {
-  background-image: url('../../assets/uwv.jpg');
+  background-image: url('../../assets/uwv.png');
+  width: 350px;
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 3px;
+}
+#capstone {
+  background-image: url('../../assets/capstone.jpg');
   width: 350px;
   height: 200px;
   background-size: contain;

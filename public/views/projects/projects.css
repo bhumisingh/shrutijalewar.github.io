@@ -60,6 +60,8 @@
 }
 .buttons a {
   margin: 10px;
-  width: 50%;
   text-align: center;
+}
+.rowlast {
+  margin-bottom: 25px;
 }

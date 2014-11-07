@@ -5,6 +5,8 @@ body {
   margin-bottom: 0px;
   background-color: #0074d9;
   color: #111111;
+  font-color: black;
+  text-align: center;
 }
 .panel-footer {
   background-color: #0074d9;

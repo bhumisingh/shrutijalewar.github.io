@@ -1,9 +1,9 @@
 #BG {
-  background-image: url('../../assets/BG3s.jpg');
+  background-image: url('../../assets/BG4s.jpg');
   background-size: cover;
   margin: 0;
   width: 100%;
-  height: 100%;
+  height: 800px;
 }
 #shruti {
   background-image: url('../../assets/shruti2.png');

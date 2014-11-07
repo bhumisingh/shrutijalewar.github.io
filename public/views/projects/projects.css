@@ -34,6 +34,9 @@
   margin-left: 3px;
   border-radius: 5px;
 }
+#hipsterbay a {
+  margin-left: 75px;
+}
 #uwv {
   background-image: url('../../assets/uwv.png');
   width: 350px;

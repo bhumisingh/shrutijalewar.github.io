@@ -9,7 +9,7 @@ body {
 }
 .navbar.navbar-default {
   margin-bottom: 0px;
-  background-color: #0074d9;
+  background-color: #a6d6ff;
   color: #001f3f;
   text-align: center;
   font-size: 20px;
@@ -17,7 +17,7 @@ body {
   border-radius: 0px;
 }
 .panel-footer {
-  background-color: #0074d9;
+  background-color: #a6d6ff;
   border: 0px;
   border-radius: 0px;
 }

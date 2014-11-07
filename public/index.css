@@ -1,20 +1,22 @@
 @import url(http://fonts.googleapis.com/css?family=Courgette);
 * {
   font-family: 'Courgette', cursive;
-  color: red;
+  color: #001f3f;
 }
 body {
   background-color: #ffffff;
 }
-.navbar {
+.navbar.navbar-default {
   margin-bottom: 0px;
   background-color: #0074d9;
-  color: #111111;
+  color: #001f3f;
   text-align: center;
   font-size: 20px;
+  border: 0px;
 }
 .panel-footer {
   background-color: #0074d9;
+  border: 0px;
 }
 .container-fluid {
   padding-left: 0px;

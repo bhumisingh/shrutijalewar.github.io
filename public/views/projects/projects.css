@@ -1,10 +1,7 @@
 #PG {
-  background-image: url('../../assets/pink-sky.jpeg');
-  background-size: cover;
   margin: 0;
   width: 100%;
   height: 1600px;
-  background-repeat: round;
 }
 #PG h1 {
   margin-left: 15px;

@@ -6,6 +6,12 @@
   height: 1600px;
   background-repeat: repeat;
 }
+#PG h1 {
+  margin-left: 15px;
+}
+#PG h4 {
+  margin-left: 15px;
+}
 #oz {
   background-image: url('../../assets/oz.png');
   width: 350px;

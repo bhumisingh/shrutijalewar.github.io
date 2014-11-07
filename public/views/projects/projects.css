@@ -5,6 +5,7 @@
   width: 100%;
   height: 1600px;
   background-repeat: round;
+  margin-bottom: 50px;
 }
 #PG h1 {
   margin-left: 15px;
@@ -79,7 +80,4 @@
 .buttons a {
   margin: 10px;
   text-align: center;
-}
-.caps {
-  margin-bottom: 50px;
 }

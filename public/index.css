@@ -11,3 +11,7 @@ body {
 .panel-footer {
   background-color: #0074d9;
 }
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}

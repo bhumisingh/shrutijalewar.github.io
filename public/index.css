@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Courgette);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
 * {
-  font-family: 'Courgette', cursive;
+  font-family: 'Montserrat', sans-serif;
   color: #001f3f;
 }
 body {

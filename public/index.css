@@ -13,10 +13,12 @@ body {
   text-align: center;
   font-size: 20px;
   border: 0px;
+  border-radius: 0px;
 }
 .panel-footer {
   background-color: #0074d9;
   border: 0px;
+  border-radius: 0px;
 }
 .container-fluid {
   padding-left: 0px;

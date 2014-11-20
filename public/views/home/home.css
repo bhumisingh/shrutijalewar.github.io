@@ -7,9 +7,9 @@
 }
 #shruti {
   background-image: url('../../assets/shruti2.png');
-  width: 200px;
+  width: 160px;
   height: 250px;
-  background-size: contain;
+  background-size: cover;
   margin-left: 3px;
   border-radius: 100px;
 }

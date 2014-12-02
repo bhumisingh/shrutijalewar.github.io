@@ -8,11 +8,11 @@
   margin-top: 25px;
   margin-left: 20px;
   background-image: url('../../assets/Shruti3.jpg');
-  width: 160px;
+  width: 300px;
   height: 250px;
   background-size: cover;
   margin-left: 3px;
-  border-radius: 100px;
+  border-radius: 50px;
 }
 #contact {
   margin-left: 50px;

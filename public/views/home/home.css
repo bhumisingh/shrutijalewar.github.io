@@ -5,6 +5,8 @@
   height: 800px;
 }
 #shruti {
+  margin-top: 25px;
+  margin-left: 20px;
   background-image: url('../../assets/shruti2.png');
   width: 160px;
   height: 250px;
@@ -12,6 +14,6 @@
   margin-left: 3px;
   border-radius: 100px;
 }
-#shruti h4 {
+#shruti a {
   color: gray;
 }

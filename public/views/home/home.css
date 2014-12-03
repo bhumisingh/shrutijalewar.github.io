@@ -20,5 +20,14 @@
   color: #444444;
 }
 #skills {
+  margin-top: 30px;
   margin-left: 15px;
+}
+#line {
+  width: 500px;
+  height: 10px;
+  background-color: #444444;
+}
+.front {
+  margin-top: 70px;
 }

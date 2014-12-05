@@ -1,0 +1,54 @@
+{
+  "name": "devicons",
+  "description": "An iconic font made for developers",
+  "version": "1.6.0",
+  "keywords": [
+    "font",
+    "icons",
+    "devicons",
+    "glyphs"
+  ],
+  "homepage": "http://vorillaz.github.io/devicons/",
+  "bugs": {
+    "url": "http://github.com/vorillaz/devicons/issues"
+  },
+  "author": {
+    "name": "Theodore Vorillas",
+    "email": "sayhi@vorillaz.com",
+    "url": "http://twitter.com/vorillas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorillaz/devicons.git"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/mit-license.html"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "gitHead": "c256b2614c7fe60bd7bff94e37596f9970264eb8",
+  "_id": "devicons@1.6.0",
+  "scripts": {},
+  "_shasum": "6241e967bba952d88026433f0af95b1e998e881d",
+  "_from": "devicons@",
+  "_npmVersion": "1.4.26",
+  "_npmUser": {
+    "name": "vorillaz",
+    "email": "theodorevorillas@yahoo.gr"
+  },
+  "maintainers": [
+    {
+      "name": "vorillaz",
+      "email": "theodorevorillas@yahoo.gr"
+    }
+  ],
+  "dist": {
+    "shasum": "6241e967bba952d88026433f0af95b1e998e881d",
+    "tarball": "http://registry.npmjs.org/devicons/-/devicons-1.6.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/devicons/-/devicons-1.6.0.tgz"
+}

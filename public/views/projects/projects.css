@@ -33,6 +33,9 @@
   background-repeat: no-repeat;
   margin-left: 3px;
 }
+#flushot .buttons {
+  margin-left: 45px;
+}
 #hipsterbay {
   background-image: url('../../assets/hipsterbay.jpg');
   width: 350px;

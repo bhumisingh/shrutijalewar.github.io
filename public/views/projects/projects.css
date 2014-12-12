@@ -15,7 +15,7 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 #roundup {
   background-image: url('../../assets/roundup.png');
@@ -23,7 +23,7 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 #flushot {
   background-image: url('../../assets/influenza.png');
@@ -31,10 +31,10 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 130px;
+  margin-left: 3px;
 }
 #flu {
-  margin-left: 145px;
+  margin-left: 45px;
 }
 #hipsterbay {
   background-image: url('../../assets/hipsterbay.jpg');
@@ -42,7 +42,7 @@
   height: 200px;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 #hipsterbay .buttons {
   margin-left: 75px;
@@ -53,7 +53,7 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 #capstone {
   background-image: url('../../assets/capstone.jpg');
@@ -61,18 +61,18 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 .play {
   margin-left: 5px;
 }
 .buttons {
   padding: 5px;
-  margin-left: 130px;
+  margin-left: 30px;
+  align: center;
 }
 .buttons a {
-  margin: 10px;
-  text-align: center;
+  align: center;
   color: #444444;
 }
 .buttons a:hover {

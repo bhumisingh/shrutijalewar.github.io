@@ -75,9 +75,10 @@
   text-align: center;
   color: #444444;
 }
-.buttons a:hover {
+.buttons:hover {
   colour: red;
   text-decoration: none;
+  color: red;
 }
 .pro {
   background-color: #cdcdcd;

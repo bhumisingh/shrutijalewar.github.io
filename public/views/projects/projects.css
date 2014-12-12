@@ -75,16 +75,18 @@
   text-align: center;
   color: #444444;
 }
-.project {
+.pro {
   background-color: #cdcdcd;
 }
-.project h1 {
+.pro h1 {
   margin-left: 20px;
 }
 h2 {
   margin-left: 20px;
 }
-.col-sm-5-box {
+#box {
   border: 2px;
   padding: 30px;
+  width: 400px
+  height: 400px;
 }

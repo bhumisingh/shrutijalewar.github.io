@@ -31,7 +31,7 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 130px;
 }
 #flu {
   margin-left: 145px;
@@ -54,7 +54,6 @@
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 30px;
-  border: 2px solid black;
 }
 #capstone {
   background-image: url('../../assets/capstone.jpg');
@@ -63,7 +62,6 @@
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 30px;
-  border: 2px solid black;
 }
 .play {
   margin-left: 5px;
@@ -95,4 +93,5 @@ h2 {
   border: 2px solid black;
   padding: 30px;
   color: #1a1a1a;
+  width: 400px;
 }

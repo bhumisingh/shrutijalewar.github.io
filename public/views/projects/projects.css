@@ -31,10 +31,10 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 3px;
+  margin-left: 130px;
 }
 #flu {
-  margin-left: 45px;
+  margin-left: 145px;
 }
 #hipsterbay {
   background-image: url('../../assets/hipsterbay.jpg');
@@ -42,7 +42,7 @@
   height: 200px;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-left: 3px;
+  margin-left: 30px;
 }
 #hipsterbay .buttons {
   margin-left: 75px;
@@ -67,12 +67,11 @@
   margin-left: 5px;
 }
 .buttons {
-  padding: 5px;
-  margin-left: 30px;
-  align: center;
+  padding: 15px;
+  margin-left: 130px;
 }
 .buttons a {
-  align: center;
+  margin: 10px;
   color: #444444;
 }
 .buttons a:hover {
@@ -90,6 +89,7 @@ h2 {
   margin-left: 20px;
 }
 .box {
+  margin-top: 30px;
   border: 2px solid #1a1a1a;
   padding: 30px;
   width: 440px;

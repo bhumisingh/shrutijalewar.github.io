@@ -74,6 +74,9 @@
   background-repeat: no-repeat;
   margin-left: 3px;
 }
+#nash .buttons {
+  margin-left: 90px;
+}
 .buttons {
   padding: 15px;
   margin-left: 130px;

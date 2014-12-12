@@ -28,6 +28,10 @@ p {
 #contact a {
   color: #444444;
 }
+#contact a:hover {
+  text-decoration: none;
+  color: red;
+}
 #skills {
   margin-top: 30px;
   margin-left: 15px;

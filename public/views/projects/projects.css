@@ -75,7 +75,7 @@
   text-align: center;
   color: #444444;
 }
-.buttons a a:hover {
+.buttons a:hover {
   colour: red;
   text-decoration: none;
 }

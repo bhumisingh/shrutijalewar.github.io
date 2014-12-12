@@ -31,10 +31,10 @@
   height: 200px;
   background-size: contain;
   background-repeat: no-repeat;
-  margin-left: 130px;
+  margin-left: 80px;
 }
 #flu {
-  margin-left: 145px;
+  margin-left: 105px;
 }
 #hipsterbay {
   background-image: url('../../assets/hipsterbay.jpg');
@@ -42,7 +42,7 @@
   height: 200px;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-left: 30px;
+  margin-left: 3px;
 }
 #hipsterbay .buttons {
   margin-left: 75px;
@@ -89,8 +89,8 @@ h2 {
   margin-left: 20px;
 }
 .box {
-  margin-top: 30px;
-  border: 2px solid #1a1a1a;
+  margin: 30px;
+  border: 2px solid #e6e6e6;
   padding: 30px;
   width: 440px;
   height: 440px;
